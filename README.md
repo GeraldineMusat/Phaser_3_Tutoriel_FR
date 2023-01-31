@@ -12,4 +12,4 @@ JavaScript est un langage de programmation de scripts principalement employé da
 - Installer dans Visual Studio Code l'extension : "Live Server"
 - Telecharger le dossier "Phaser_3_Projet" depuis ce GitHub sur votre oridnateur
 - Ouvrir le dossier "Phaser_3_Projet" dans Visual Studio Code, c'est dans ce projet que vous aller creer votre jeu :)
-- Maintenant vous pouvez commencer à coder ! Les étapes du tutoriel pour constuire un jeu se trouve dans le dossier "Tutoriel". Commencez par l'étapes 1 puis 2 ...
+- Maintenant vous pouvez commencer à coder ! Les étapes du tutoriel pour constuire un jeu se trouve dans le Wiki ici : https://github.com/GeraldineMusat/Phaser_3_Tutoriel_FR/wiki
